@@ -1,0 +1,12 @@
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\bin\Debug\net5.0\PatientGroupDetection.Application.deps.json
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\bin\Debug\net5.0\PatientGroupDetection.Application.dll
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\bin\Debug\net5.0\ref\PatientGroupDetection.Application.dll
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\bin\Debug\net5.0\PatientGroupDetection.Application.pdb
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\obj\Debug\net5.0\PatientGroupDetection.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\obj\Debug\net5.0\PatientGroupDetection.Application.AssemblyInfoInputs.cache
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\obj\Debug\net5.0\PatientGroupDetection.Application.AssemblyInfo.cs
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\obj\Debug\net5.0\PatientGroupDetection.Application.csproj.CoreCompileInputs.cache
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\obj\Debug\net5.0\PatientGroupDetection.Application.dll
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\obj\Debug\net5.0\ref\PatientGroupDetection.Application.dll
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\obj\Debug\net5.0\PatientGroupDetection.Application.pdb
+C:\Users\Shaikh.Bablu\source\repos\PatientGroupDetection\PatientGroupDetection.Application\obj\Debug\net5.0\PatientGroupDetection.Application.csproj.AssemblyReference.cache

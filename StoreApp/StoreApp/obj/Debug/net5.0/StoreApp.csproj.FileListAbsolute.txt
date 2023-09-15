@@ -1,0 +1,39 @@
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.exe
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.deps.json
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.runtimeconfig.json
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.runtimeconfig.dev.json
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.dll
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\ref\StoreApp.dll
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.pdb
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.AssemblyReference.cache
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.AssemblyInfoInputs.cache
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.AssemblyInfo.cs
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.dll
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\ref\StoreApp.dll
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.pdb
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.genruntimeconfig.cache
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Shaikh.Bablu\source\repos\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.CopyComplete
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.exe
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.deps.json
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.runtimeconfig.json
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.runtimeconfig.dev.json
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.dll
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\ref\StoreApp.dll
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\StoreApp.pdb
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.AssemblyReference.cache
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.AssemblyInfoInputs.cache
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.AssemblyInfo.cs
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.dll
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\ref\StoreApp.dll
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.pdb
+C:\Personal\VL\Technical Challenge 2\StoreApp\StoreApp\obj\Debug\net5.0\StoreApp.genruntimeconfig.cache
